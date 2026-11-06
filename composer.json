@@ -1,0 +1,15 @@
+{
+    "name": "sofia/mailto",
+    "description": "Add a one-click 'send email to requester' button in the GLPI ticket form, pre-filling a mailto link with the ticket subject tag and recipients.",
+    "type": "glpi-plugin",
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "php": ">=8.2"
+    },
+    "authors": [
+        {
+            "name": "SOFIA.nc",
+            "homepage": "https://www.sofia.nc"
+        }
+    ]
+}

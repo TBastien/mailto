@@ -1,0 +1,17 @@
+# French translation for MailTo
+# Copyright (C) 2025 SOFIA.nc
+msgid ""
+msgstr ""
+"Project-Id-Version: MailTo 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/TBastien/mailto/issues\n"
+"POT-Creation-Date: 2025-01-01 00:00+0000\n"
+"PO-Revision-Date: 2025-01-01 00:00+0000\n"
+"Last-Translator: SOFIA.nc\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Send an email to the requester"
+msgstr "Envoyer un email au demandeur"
