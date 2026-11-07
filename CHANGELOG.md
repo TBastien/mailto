@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [1.0.1] - 2026-11-07
+
+### Changed
+- Nouveau logo (fichier local `logo.png` + marketplace `docs/logo.png`).
+- Correction des fichiers `.mo` (header gettext + chaînes NUL-terminées) pour supprimer le warning du loader laminas-i18n.
+
 ## [1.0.0] - 2026-11-06
 
 ### Added

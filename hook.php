@@ -52,7 +52,7 @@ function plugin_mailto_pre_show_item(array $params)
         return;
     }
 
-    echo '<div class="mailto-toolbar" style="margin: 0 0 15px 0;">';
+    echo '<div class="mailto-toolbar" style="display: inline-block; vertical-align: middle; margin: 0 10px 15px 0;">';
     echo '<a class="btn btn-primary" href="' . htmlspecialchars($mailto, ENT_QUOTES, 'UTF-8') . '">';
     echo '<i class="fa-solid fa-envelope"></i>&nbsp;' . __('Send an email to the requester', 'mailto');
     echo '</a>';

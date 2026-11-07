@@ -14,7 +14,7 @@
  * @license   https://www.gnu.org/licenses/gpl-2.0.html GPL-2.0-or-later
  */
 
-define('PLUGIN_MAILTO_VERSION', '1.0.0');
+define('PLUGIN_MAILTO_VERSION', '1.0.1');
 
 // Minimum GLPI version (inclusive) and maximum (exclusive)
 define('PLUGIN_MAILTO_MIN_GLPI_VERSION', '11.0.0');
@@ -43,7 +43,7 @@ function plugin_version_mailto()
         'version'      => PLUGIN_MAILTO_VERSION,
         'author'       => 'SOFIA.nc',
         'license'      => 'GPL-2.0-or-later',
-        'homepage'     => 'https://github.com/sofia-nc/mailto',
+        'homepage'     => 'https://github.com/TBastien/glpi-mailto',
         'requirements' => [
             'glpi' => [
                 'min' => PLUGIN_MAILTO_MIN_GLPI_VERSION,
